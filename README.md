@@ -1,11 +1,13 @@
 # Algorithms-and-data-structures
 Some algorithms and data structures
 
+# DONE
+Insertion sort
+
 # TO DO
 # Algorithms
 Binary search
 Selection sort
-Insertion sort
 Heap sort
 Merge sort
 Quick sort
