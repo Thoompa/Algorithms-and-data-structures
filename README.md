@@ -1,11 +1,11 @@
 # Algorithms-and-data-structures
 Some algorithms and data structures
 
-# DONE
+## DONE
 Insertion sort
 
-# TO DO
-# Algorithms
+## TO DO
+### Algorithms
 Binary search
 Selection sort
 Heap sort
@@ -24,7 +24,7 @@ Floyd-Warshall algorithm
 Prim's algorithm
 Kruskal's algorithm
 
-# Data structures
+### Data structures
 Linked list
 Binary tree
 Priority queue
