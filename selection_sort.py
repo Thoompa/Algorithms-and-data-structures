@@ -9,7 +9,6 @@ def selection_sort(array):
             if array[index] < array[mindex]:
                 mindex = index
             index += 1
-        print(array, sorted_index, index, mindex)
         if mindex == sorted_index:
             sorted_index += 1
         else:
@@ -19,8 +18,3 @@ def selection_sort(array):
             array[sorted_index] = tmp
             sorted_index += 1
     return array
-
-
-my_array = [1,6,3,34,7,4,5,7,45,2]
-my_sorted_array = selection_sort(my_array)
-print(my_sorted_array)
