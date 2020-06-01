@@ -1,7 +1,8 @@
 # from insertion_sort import insertion_sort as sort
-from selection_sort import selection_sort as sort
+# from selection_sort import selection_sort as sort
+from merge_sort import merge_sort as sort
 
-print("Testing for selection_sort.py")
+print("Testing for merge_sort.py")
 
 array = []  # empty array
 sorted_array = sort(array.copy())
