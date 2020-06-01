@@ -2,12 +2,13 @@
 Some algorithms and data structures
 
 ## DONE
+main.py for testing sorting algorithms
 Insertion sort
+Selection sort
 
 ## TO DO
 ### Algorithms
 Binary search
-Selection sort
 Heap sort
 Merge sort
 Quick sort
