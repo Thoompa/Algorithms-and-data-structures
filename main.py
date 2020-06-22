@@ -16,7 +16,7 @@ array = [7, 7, 7, 7, 5, 7, 7, 7]  # array with repeated value
 sorted_array = sort(array.copy())
 print("Unsorted array:", array, "\nSorted array:", sorted_array)
 
-array = [1, 4, 7, 13, 29]  # already sorted array
+array = [1, 4, 7, 12, 29]  # already sorted array
 sorted_array = sort(array.copy())
 print("Unsorted array:", array, "\nSorted array:", sorted_array)
 
