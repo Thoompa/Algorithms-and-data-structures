@@ -1,25 +1,12 @@
 # from insertion_sort import insertion_sort as sort
 # from selection_sort import selection_sort as sort
-from merge_sort import merge_sort as sort
+# from merge_sort import merge_sort as sort
+from linked_list import LinkedList
 
-print("Testing for merge_sort.py")
+print("Testing for linked_list.py")
 
-array = []  # empty array
-sorted_array = sort(array.copy())
-print("Unsorted array:", array, "\nSorted array:", sorted_array)
-
-array = [24] # array with one element
-sorted_array = sort(array.copy())
-print("Unsorted array:", array, "\nSorted array:", sorted_array)
-
-array = [7, 7, 7, 7, 5, 7, 7, 7]  # array with repeated value
-sorted_array = sort(array.copy())
-print("Unsorted array:", array, "\nSorted array:", sorted_array)
-
-array = [1, 4, 7, 12, 29]  # already sorted array
-sorted_array = sort(array.copy())
-print("Unsorted array:", array, "\nSorted array:", sorted_array)
-
-array = [6, 3, 10, 21, 8, 2/3, 0, -5, 6.3, 3**2]  # unsorted array
-sorted_array = sort(array.copy())
-print("Unsorted array:", array, "\nSorted array:", sorted_array)
+my_list = LinkedList(5)
+my_list.add_node(1)
+my_list.add_node('hi')
+my_list.add_node(-6)
+my_list.print()

@@ -5,12 +5,15 @@ Some algorithms and data structures
 main.py for testing sorting algorithms
 Insertion sort
 Selection sort
+Linked list
+
+## IN PROGRESS
+Merge sort
 
 ## TO DO
 ### Algorithms
 Binary search
 Heap sort
-Merge sort
 Quick sort
 Fibonacci dynamic programming
 Coins change problem
@@ -26,7 +29,6 @@ Prim's algorithm
 Kruskal's algorithm
 
 ### Data structures
-Linked list
 Binary tree
 Priority queue
 Heap
