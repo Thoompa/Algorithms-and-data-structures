@@ -9,10 +9,10 @@ Linked list
 
 ## IN PROGRESS
 Merge sort
+Binary search tree
 
 ## TO DO
 ### Algorithms
-Binary search
 Heap sort
 Quick sort
 Fibonacci dynamic programming
@@ -29,7 +29,6 @@ Prim's algorithm
 Kruskal's algorithm
 
 ### Data structures
-Binary tree
 Priority queue
 Heap
 Lookup table
